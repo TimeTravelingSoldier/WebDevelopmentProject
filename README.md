@@ -6,7 +6,7 @@ Team D Semester Project
 
 Independent page alocation:
 
-faq:
+faq:    Yu Lee
 
 resume: Joshua Thomas
 
