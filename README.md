@@ -10,6 +10,6 @@ faq:    Yu Lee
 
 resume: Joshua Thomas
 
-schedule:
+schedule: Noah Drumwright
 
 video:
