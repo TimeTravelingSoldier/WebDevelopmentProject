@@ -301,6 +301,11 @@ svg {
   vertical-align: middle;
 }
 
+li img{
+  height:10%;
+  width: 10%;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
