@@ -614,6 +614,7 @@ progress {
   margin-left:auto;
   margin-right:auto;
   display:block;
+  padding-bottom: 10px;
 }
 
 .img-thumbnail {
