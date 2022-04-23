@@ -12,4 +12,4 @@ resume: Joshua Thomas
 
 schedule: Noah Drumwright
 
-video:
+video: Chase Askew
