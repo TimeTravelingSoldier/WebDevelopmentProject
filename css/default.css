@@ -640,6 +640,11 @@ progress {
   color: #6c757d;
 }
 
+.white-box
+{
+  background-color:white
+}
+
 .container,
 .container-fluid,
 .container-xxl,
