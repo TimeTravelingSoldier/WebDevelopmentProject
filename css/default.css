@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #07557F;
 }
 
 *,
@@ -103,6 +103,7 @@ hr:not([size]) {
 
 header{
   background-color: #278fc7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
