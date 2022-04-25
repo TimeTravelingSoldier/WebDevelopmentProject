@@ -76,6 +76,19 @@
   }
 }
 
+.wrap{
+  text-align: center;
+  color:white
+}
+
+.Lname{
+  float: right;
+}
+
+.fName{
+  float: left
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
